@@ -1,6 +1,6 @@
 ### Hi, I'm Vivek! 🧑‍💻 
 - 🐉 I'm an undergraduate student at **Drexel University**<br/>
-- 🎓 I'm pursuing: Bachelor of Science in **Computer Science**. Minors in **Mathematics** and **Data Science**.<br/>
+- 🎓 Pursuing: Bachelor of Science in **Computer Science**. Minors in **Mathematics** and **Data Science**.<br/>
 - 🤩 Specializing in **Artificial Intelligence**, **Computer Networks**, **Computer Security**, and **Systems Engineering**.
 - ⚡️ Fun fact: I love playing squash!
 - 📧 Work Email: **vck29 (at) drexel (dot) edu**.
