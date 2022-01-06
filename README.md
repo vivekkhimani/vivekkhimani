@@ -1,10 +1,13 @@
-### Hi, I'm Vivek! 
-
-### <sup>Add some text</sup>
+### Hi, I'm Vivek! 🧑‍💻 
+- 🐉 I'm an undergraduate student at **Drexel University**<br/>
+- 🎓 I'm pursuing: Bachelor of Science in **Computer Science**. Minors in **Mathematics** and **Data Science**.<br/>
+- 🤩 Specializing in **Artificial Intelligence**, **Computer Networks**, **Computer Security**, and **Systems Engineering**.
+- ⚡️ Fun fact: I love playing squash!
+- 📧 Work Email: **vck29 (at) drexel (dot) edu**.
 
 ----
 
-![languages](https://img.shields.io/static/v1?label=&message=languages:&color=555&style=flat-square)
+![languages](https://img.shields.io/static/v1?label=&message=languages:&color=c0c0c0&style=flat-square)
 ![c](https://img.shields.io/static/v1?logo=c&label=&message=c&color=111&logoColor=AAA&style=flat-square&link=)
 ![cpp](https://img.shields.io/static/v1?logo=c%2B%2B&label=&message=cpp&color=111&logoColor=AAA&style=flat-square&link=)
 ![java](https://img.shields.io/static/v1?logo=java&label=&message=java&color=111&logoColor=AAA&style=flat-square&link=)
@@ -17,7 +20,7 @@
 ![css3](https://img.shields.io/static/v1?logo=css3&label=&message=css3&color=111&logoColor=AAA&style=flat-square&link=)
 ![latex](https://img.shields.io/static/v1?logo=latex&label=&message=latex&color=111&logoColor=AAA&style=flat-square&link=)
 <br/>
-![tools](https://img.shields.io/static/v1?label=&message=tools:&color=555&style=flat-square)
+![tools](https://img.shields.io/static/v1?label=&message=tools:&color=c0c0c0&style=flat-square)
 ![git](https://img.shields.io/static/v1?logo=git&label=&message=git&color=111&logoColor=AAA&style=flat-square)
 ![firebase](https://img.shields.io/static/v1?logo=firebase&label=&message=firebase&color=111&logoColor=AAA&style=flat-square)
 ![googlecloud](https://img.shields.io/static/v1?logo=googlecloud&label=&message=googlecloud&color=111&logoColor=AAA&style=flat-square)
@@ -30,7 +33,7 @@
 ![visualstudiocode](https://img.shields.io/static/v1?logo=visualstudiocode&label=&message=vscode&color=111&logoColor=AAA&style=flat-square)
 ![vim](https://img.shields.io/static/v1?logo=vim&label=&message=vim&color=111&logoColor=AAA&style=flat-square)
 <br/>
-![frameworks](https://img.shields.io/static/v1?label=&message=frameworks%2Flibraries:&color=555&style=flat-square)
+![frameworks](https://img.shields.io/static/v1?label=&message=frameworks%2Flibraries:&color=c0c0c0&style=flat-square)
 ![django](https://img.shields.io/static/v1?logo=django&label=&message=django&color=111&logoColor=AAA&style=flat-square)
 ![flask](https://img.shields.io/static/v1?logo=flask&label=&message=flask&color=111&logoColor=AAA&style=flat-square)
 ![tensorflow](https://img.shields.io/static/v1?logo=tensorflow&label=&message=tensorflow&color=111&logoColor=AAA&style=flat-square)
@@ -42,19 +45,18 @@
 ![angularjs](https://img.shields.io/static/v1?logo=angular&label=&message=angular&color=111&logoColor=AAA&style=flat-square)
 ![bootstrap5](https://img.shields.io/static/v1?logo=bootstrap&label=&message=bootstrap5&color=111&logoColor=AAA&style=flat-square)
 <br/>
-![operatingsystems](https://img.shields.io/static/v1?label=&message=operating%20systems:&color=555&style=flat-square)
+![operatingsystems](https://img.shields.io/static/v1?label=&message=operating%20systems:&color=c0c0c0&style=flat-square)
 ![ubuntu](https://img.shields.io/static/v1?logo=ubuntu&label=&message=ubuntu&color=111&logoColor=AAA&style=flat-square)
 ![centos](https://img.shields.io/static/v1?logo=centos&label=&message=centos8&color=111&logoColor=AAA&style=flat-square)
 ![macos](https://img.shields.io/static/v1?logo=macos&label=&message=macos8&color=111&logoColor=AAA&style=flat-square)
 ![windows](https://img.shields.io/static/v1?logo=windows&label=&message=windows&color=111&logoColor=AAA&style=flat-square)
-<br/>
-![worksat](https://img.shields.io/static/v1?label=&message=experience:&color=555&style=flat-square)
-![facebook](https://img.shields.io/static/v1?logo=facebook&label=&message=meta&color=111&logoColor=AAA&style=flat-square)
 
 ----
-**Senior Data & Platform Engineer** &#12299;_working in Reliability Analytics & Automation_
+**Incoming Software Engineering Intern (Summer 2022)** &#12299;_Meta (Facebook), Menlo Park, CA._
 <br/>
-**Digital Artist & Creator** &#12299;_specialised in environmental pixel art and 8bit-ish art_
+**Incoming Software Engineering Intern (Sprint 2022)** &#12299;_Return To Corp (r2c), San Francisco, CA._
+<br/>
+**Software Engineering Intern (Spring/Summer 2021)** &#12299;_Susquehanna International Group (SIG), Philadelphia, PA._
 
 ----
 <a href="mailto:vivekkhimani07@gmail.com">
