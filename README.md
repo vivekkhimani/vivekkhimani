@@ -4,6 +4,7 @@
 - 🤩 Specializing in **Artificial Intelligence**, **Computer Networks**, **Computer Security**, and **Systems Engineering**.
 - ⚡️ Fun fact: I love playing squash!
 - 📧 Work Email: **vck29 (at) drexel (dot) edu**.
+- ☕ Support: **https://www.buymeacoffee.com/vivekkhimani**
 
 ----
 
@@ -59,6 +60,9 @@
 **Software Engineering Intern (Spring/Summer 2021)** &#12299;_Susquehanna International Group (SIG), Philadelphia, PA._
 
 ----
+<a href="https://www.buymeacoffee.com/vivekkhimani">
+  <img align="left" alt="Vivek's Buy Me a Coffee" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />
+</a>
 <a href="mailto:vivekkhimani07@gmail.com">
   <img align="left" alt="Vivek's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
 </a>
