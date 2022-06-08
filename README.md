@@ -55,7 +55,7 @@
 ----
 **Incoming Software Engineering Intern (Summer 2022)** &#12299;_Meta (Facebook), Menlo Park, CA._
 <br/>
-**Incoming Software Engineering Intern (Spring 2022)** &#12299;_Return To Corp (r2c), San Francisco, CA._
+**Software Engineering Intern (Spring 2022)** &#12299;_Return To Corp (r2c), San Francisco, CA._
 <br/>
 **Software Engineering Intern (Spring/Summer 2021)** &#12299;_Susquehanna International Group (SIG), Philadelphia, PA._
 
