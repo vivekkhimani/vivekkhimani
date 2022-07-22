@@ -60,6 +60,9 @@
 **Software Engineering Intern (Spring/Summer 2021)** &#12299;_Susquehanna International Group (SIG), Philadelphia, PA._
 
 ----
+<a href="https://calendly.com/vivekkhimani">
+  <img align="left" alt="Calendly" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/googlecalendar.svg" />
+</a>
 <a href="https://www.buymeacoffee.com/vivekkhimani">
   <img align="left" alt="Vivek's Buy Me a Coffee" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/buymeacoffee.svg" />
 </a>
