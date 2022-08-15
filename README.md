@@ -53,7 +53,7 @@
 ![windows](https://img.shields.io/static/v1?logo=windows&label=&message=windows&color=111&logoColor=AAA&style=flat-square)
 
 ----
-**Incoming Software Engineering Intern (Summer 2022)** &#12299;_Meta (Facebook), Menlo Park, CA._
+**Software Engineering Intern (Summer 2022)** &#12299;_Meta (Facebook), Menlo Park, CA._
 <br/>
 **Software Engineering Intern (Spring 2022)** &#12299;_Return To Corp (r2c), San Francisco, CA._
 <br/>
