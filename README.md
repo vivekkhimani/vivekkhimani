@@ -4,7 +4,8 @@
 - 🤩 Specializing in **Artificial Intelligence**, **Computer Networks**, **Computer Security**, and **Systems Engineering**.
 - ⚡️ Fun fact: I love playing squash!
 - 📧 Work Email: **vck29 (at) drexel (dot) edu**.
-- ☕ Let's Meet: **https://www.buymeacoffee.com/vivekkhimani**
+- ☕ Coffee Chat: **https://www.buymeacoffee.com/vivekkhimani**
+- 📅 Calendly: **https://calendly.com/vivekkhimani**
 
 ----
 
