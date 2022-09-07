@@ -65,7 +65,7 @@
   <img align="left" alt="Calendly" width="20px" src="https://vivekkhimani.github.io/assets/img/readme_icons/calendar.svg" />
 </a>
 <a href="https://www.buymeacoffee.com/vivekkhimani">
-  <img align="left" alt="Vivek's Buy Me a Coffee" width="20px" src="https://vivekkhimani.github.io/assets/img/readme_icons/coffee.png" />
+  <img align="left" alt="Vivek's Buy Me a Coffee" width="20px" src="https://vivekkhimani.github.io/assets/img/readme_icons/coffee.svg" />
 </a>
 <a href="mailto:vivekkhimani07@gmail.com">
   <img align="left" alt="Vivek's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
