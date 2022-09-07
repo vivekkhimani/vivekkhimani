@@ -89,7 +89,7 @@
   <img align="left" alt="Vivek's Stack Overflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://twitter.com/KhimaniVivek">
-  <img align="left" alt="Vivek's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+  <img align="left" alt="Vivek's Twitter" width="20px" src="https://vivekkhimani.github.io/assets/img/readme_icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/vivek.khimani">
   <img align="left" alt="Vivek's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
