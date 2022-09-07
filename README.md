@@ -62,10 +62,10 @@
 
 ----
 <a href="https://calendly.com/vivekkhimani">
-  <img align="left" alt="Calendly" width="20px" src="https://vivekkhimani.github.io/assets/img/readme_icons/calendar.svg" />
+  <img align="left" alt="Calendly" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/googlecalendar.svg" />
 </a>
 <a href="https://www.buymeacoffee.com/vivekkhimani">
-  <img align="left" alt="Vivek's Buy Me a Coffee" width="20px" src="https://vivekkhimani.github.io/assets/img/readme_icons/coffee.svg" />
+  <img align="left" alt="Vivek's Buy Me a Coffee" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/buymeacoffee.svg" />
 </a>
 <a href="mailto:vivekkhimani07@gmail.com">
   <img align="left" alt="Vivek's Gmail" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/gmail.svg" />
@@ -89,7 +89,7 @@
   <img align="left" alt="Vivek's Stack Overflow" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/stackoverflow.svg" />
 </a>
 <a href="https://twitter.com/KhimaniVivek">
-  <img align="left" alt="Vivek's Twitter" width="20px" src="https://vivekkhimani.github.io/assets/img/readme_icons/twitter.svg" />
+  <img align="left" alt="Vivek's Twitter" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
 </a>
 <a href="https://www.facebook.com/vivek.khimani">
   <img align="left" alt="Vivek's Facebook" width="20px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/facebook.svg" />
