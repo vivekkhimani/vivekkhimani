@@ -1,8 +1,4 @@
 ### Hi, I'm Vivek! 🧑‍💻 
-- 🐉 I'm an undergraduate student at **Drexel University**<br/>
-- 🎓 Pursuing: Bachelor of Science in **Computer Science**. Minors in **Mathematics** and **Data Science**.<br/>
-- 🤩 Specializing in **Artificial Intelligence**, **Computer Networks**, **Computer Security**, and **Systems Engineering**.
-- ⚡️ Fun fact: I love playing squash!
 - 📧 Work Email: **vivek (at) semgrep (dot) com**.
 - ☕ Coffee Chat: **https://www.buymeacoffee.com/vivekkhimani**
 - 📅 Calendly: **https://calendly.com/vivekkhimani**
