@@ -1,5 +1,5 @@
 ### Hi, I'm Vivek! 🧑‍💻 
-- 📧 Work Email: **vivek (at) semgrep (dot) com**.
+- 📧 Work Email: **vivek (at) semgrep (dot) com**
 - ☕ Coffee Chat: **https://www.buymeacoffee.com/vivekkhimani**
 - 📅 Calendly: **https://calendly.com/vivekkhimani**
 
